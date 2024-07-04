@@ -1,2 +1,4 @@
 # procesamiento-de-datos
-procesamiento de datos y limpieza con knn
+
+En este reopositorio podemos ver el procesamiento de datos, así como la limpieza de los mismos con KNN.
+
